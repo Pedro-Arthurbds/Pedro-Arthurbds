@@ -1,6 +1,6 @@
-## Pedro Arthur
+## 👨‍💻 Pedro Arthur
 
-## 👨‍💻 Desenvolvedor
+**`Desenvolvedora`**
 
 Me chamo **Pedro Arthur Bergamaschi da Silva**, sou formado em **Sistemas de Informação** e apaixonado por tecnologia desde cedo.  
 Tenho interesse tanto no **desenvolvimento web** quanto em **análise e visualização de dados**.  
