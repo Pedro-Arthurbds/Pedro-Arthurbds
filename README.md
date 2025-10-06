@@ -28,6 +28,6 @@ Atualmente, me dedico a aprimorar minhas habilidades em **React, Node.js e Pytho
 
 ### 🌐 Conecte-se comigo
 
-📎 **LinkedIn:** [Pedro Arthur Bergamaschi da Silva](https://www.linkedin.com/in/pedroarthurbds)  
-💻 **GitHub:** [github.com/PedroArthurBergamaschi](https://github.com/PedroArthurBergamaschi)
+📎 **LinkedIn:** [Pedro Arthur](https://www.linkedin.com/in/pedroarthurbds)  
+
 
