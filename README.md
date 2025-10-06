@@ -1,6 +1,5 @@
 ## Pedro Arthur
 
-<!--
 ## 👨‍💻 Desenvolvedor
 
 Me chamo **Pedro Arthur Bergamaschi da Silva**, sou formado em **Sistemas de Informação** e apaixonado por tecnologia desde cedo.  
@@ -32,4 +31,3 @@ Atualmente, me dedico a aprimorar minhas habilidades em **React, Node.js e Pytho
 📎 **LinkedIn:** [Pedro Arthur Bergamaschi da Silva](https://www.linkedin.com/in/pedroarthurbds)  
 💻 **GitHub:** [github.com/PedroArthurBergamaschi](https://github.com/PedroArthurBergamaschi)
 
--->
